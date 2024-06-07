@@ -1,4 +1,4 @@
-![github-banner-2](https://github.com/pointless-code/dad-jokes/assets/18129171/ee33c52e-c458-445f-b87c-67ab5fa9fcac)
+![github-banner](https://github.com/pointless-code/dad-jokes/assets/18129171/90d63dad-4242-4283-9f62-88a678ada0a6)
 
 ## About DadJokes
 
